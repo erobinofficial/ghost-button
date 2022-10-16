@@ -3,15 +3,12 @@ body {
     margin: 0px;
     padding: 0px;
 }
-img {
-    max-width: 100%;
-    height: auto;
-  }
-  #divv{
+img{
     width: 100%;
-    height: auto;
+}
+#divv{
     display: none;
-  }
+}
 #border1{
     margin: 50px;
 }
