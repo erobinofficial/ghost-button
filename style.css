@@ -1,0 +1,35 @@
+body {
+    font-family: poppins;
+    margin: 0px;
+    padding: 0px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+  }
+  #divv{
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+#border1{
+    margin: 50px;
+}
+#border2{
+    display: none;
+}
+#border3{
+    display: none;
+}
+#border4{
+    display: none;
+}
+#border5{
+    display: none;
+}
+#border6{
+    display: none;
+}
+#border7{
+    display: none;
+}
